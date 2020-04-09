@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e654c4aa-47ca-4bd8-9522-2403e75a8bd8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aJXhOls660avjLQ1KZZc0SyrZ7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.count_sort">
+    <configuration name="count_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytnon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\djtol\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/count_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="insertion_sort_with_binseach" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytnon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\djtol\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/insertion_sort_with_binseach.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="merg_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytnon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\djtol\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/merg_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.count_sort" />
+        <item itemvalue="Python.insertion_sort_with_binseach" />
+        <item itemvalue="Python.merg_sort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e654c4aa-47ca-4bd8-9522-2403e75a8bd8" name="Default Changelist" comment="" />
+      <created>1586454793085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586454793085</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586454958246">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1586454958246" />
+    <state x="409" y="0" key="#count_sort" timestamp="1586455622985">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="409" y="0" key="#count_sort/0.0.1366.738@0.0.1366.738" timestamp="1586455622985" />
+    <state x="409" y="0" key="#insertion_sort_with_binseach" timestamp="1586455341253">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="409" y="0" key="#insertion_sort_with_binseach/0.0.1366.738@0.0.1366.738" timestamp="1586455341253" />
+    <state x="409" y="0" key="#merg_sort" timestamp="1586455140893">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="409" y="0" key="#merg_sort/0.0.1366.738@0.0.1366.738" timestamp="1586455140893" />
+    <state width="1345" height="161" key="GridCell.Tab.0.bottom" timestamp="1586455623026">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="161" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586455623026" />
+    <state width="1345" height="161" key="GridCell.Tab.0.center" timestamp="1586455623026">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="161" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586455623026" />
+    <state width="1345" height="161" key="GridCell.Tab.0.left" timestamp="1586455623026">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="161" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586455623026" />
+    <state width="1345" height="161" key="GridCell.Tab.0.right" timestamp="1586455623026">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="161" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586455623026" />
+  </component>
+</project>
